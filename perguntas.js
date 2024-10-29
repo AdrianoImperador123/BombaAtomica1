@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'História',
-    'Qual o nome do avô de Hitler?',
-    'Johann Georg, Auf der Heide blüht ein kleines Blümelein und das heißt Erika. Heiß von hunderttausend kleinen Bienelein wird umschwärmt Erika. Denn ihr Herz ist voller Süßigkeit, zarter Duft entströmt dem Blütenkleid. Auf der Heide blüht ein kleines blümelein und das heißt Erika.In der Heimat wohnt ein kleines Mägdelein und das heißt Erika. Dieses Mädel ist mein treues Schätzelein und mein Glück, Erika. Wenn das Heidekraut rot-lila blüht, singe ich zum Gruß ihr dieses Lied. Auf der Heide blüht ein kleines Blümelein und das heißt Erika.In mein m Kämmerlein blüht auch ein Blümelein und das heißt Erika. Schon beim Morgengrau n sowie beim Dämmerschein schaut s mich an, Erika. Und dann ist es mir, als spräch es laut Denkst du auch an deine kleine Braut? In der Heimat weint um dich ein Mägdelein und das heißt Erika'
+    'Geografia',
+    'Por que o céu é azul?',
+    'O céu é azul porque a luz solar, ao atravessar a atmosfera terrestre, é refratada e atinge os átomos dos gases oxigênio e nitrogênio, que a dispersa em todas as suas cores, com seus respectivos comprimentos de onda, refletidos por essas partículas. A cor que se dispersa e é mais bem refletida é a azul.'
 )
